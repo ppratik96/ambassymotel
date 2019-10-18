@@ -1,1 +1,0 @@
-<script async src="https://reservation.booking.expert/embed/button.js?h=cfibae" data-booking-button></script>
